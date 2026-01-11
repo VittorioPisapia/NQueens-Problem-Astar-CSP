@@ -15,3 +15,23 @@ The goal is to compare the scalability and performance of search-based and const
 Install the required libraries with:
 ```bash
 pip install ortools matplotlib
+```
+
+###How to Run
+Single experiment
+```bash
+python main.py
+```
+
+Run benchmarks
+```bash
+python benchmark.py
+```
+
+
+This generates a results.csv file containing all performance metrics.
+
+Generate plots
+```bash
+python plot_result.py
+```
