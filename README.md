@@ -27,8 +27,6 @@ Run benchmarks
 ```bash
 python benchmark.py
 ```
-
-
 This generates a results.csv file containing all performance metrics.
 
 Generate plots
