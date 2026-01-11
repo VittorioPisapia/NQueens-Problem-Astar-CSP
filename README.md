@@ -6,3 +6,12 @@ This project solves the **n-Queens problem** using two Artificial Intelligence a
 - Constraint Satisfaction Problem (CSP) formulation solved with OR-Tools CP-SAT
 
 The goal is to compare the scalability and performance of search-based and constraint-based methods.
+
+## Requirements
+
+- Python >= 3.9 (tested with Python 3.11)
+
+### Python dependencies
+Install the required libraries with:
+```bash
+pip install ortools matplotlib
